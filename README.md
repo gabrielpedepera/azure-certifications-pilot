@@ -1,6 +1,6 @@
 # Certificações Azure em público: playbook do piloto
 
-Status: plano inicial; nenhuma sessão, publicação ou resultado foi registrado ainda.
+Status: piloto iniciado; a primeira sessão está registrada no [diário de 30/10/2026](journal/2026-10-30.md). Nenhum vídeo publicado ou resultado de exame foi registrado ainda.
 
 Criado em: 28 de outubro de 2026.
 
@@ -411,9 +411,9 @@ Após realizar AZ-104, verificar e reservar SC-500 para a meta proposta, se disp
 
 ## 16. Repositório e preparação para publicação
 
-Este arquivo é o playbook inicial do repositório local `azure-certifications-pilot`, inicializado na branch `main`. Ainda não há commits, remoto configurado ou publicação.
+Este arquivo é o playbook do repositório `azure-certifications-pilot`, hospedado no GitHub, com histórico de commits e branch padrão `main`.
 
-Ao decidir compartilhar no GitHub, revisar o documento e começar apenas com:
+A estrutura atual contém `README.md`, `RECORDINGS.md` e `journal/`. Para ampliar o registro público, manter uma estrutura simples:
 
 ```text
 README.md          Este playbook, ajustado para apresentação pública
@@ -423,7 +423,7 @@ concepts/          Explicações próprias com fontes
 content/           Roteiros e links publicados, sem arquivos de vídeo
 ```
 
-A estrutura é uma sugestão futura; as pastas acima ainda não foram criadas. Não é necessário configurar Actions, site, domínio ou ferramenta de métricas para validar o piloto.
+As pastas `concepts/` e `content/` são sugestões futuras e ainda não foram criadas. Não é necessário configurar Actions, site, domínio ou ferramenta de métricas para validar o piloto.
 
 ## Fontes
 

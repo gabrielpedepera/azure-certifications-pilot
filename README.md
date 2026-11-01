@@ -425,6 +425,16 @@ content/           Roteiros e links publicados, sem arquivos de vídeo
 
 As pastas `concepts/` e `content/` são sugestões futuras e ainda não foram criadas. Não é necessário configurar Actions, site, domínio ou ferramenta de métricas para validar o piloto.
 
+## Licença
+
+O conteúdo original deste repositório é disponibilizado sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). O texto completo está em [LICENSE](LICENSE).
+
+Você pode copiar, adaptar e redistribuir esse conteúdo, inclusive para fins comerciais, desde que atribua crédito a gabrielpedepera e aos demais autores identificados, inclua um link para a licença e indique as alterações realizadas.
+
+Exemplo de atribuição: "Adaptado de azure-certifications-pilot, por gabrielpedepera e colaboradores, disponível em https://github.com/gabrielpedepera/azure-certifications-pilot, sob CC BY 4.0. Alterações: [descrever]."
+
+A licença não abrange materiais de terceiros referenciados ou vinculados, que continuam sujeitos às respectivas licenças e permissões.
+
 ## Fontes
 
 Consultadas em 28/10/2026. A sequência de estudo, os roteiros e as metas são propostas próprias; não são um programa oficial.
